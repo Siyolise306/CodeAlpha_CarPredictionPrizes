@@ -1,0 +1,2 @@
+Baseline (Linear Regression) - Mean Average Error: 1.4725, Root Error: 2.5245, Baseline R²: 0.7527
+Final (Gradient Boosting, learning_rate=0.05) - Mean Average Error: 1.1646, Final Root Error: 2.6439, Final R²: 0.7288 
